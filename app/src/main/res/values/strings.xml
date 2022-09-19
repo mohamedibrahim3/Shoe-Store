@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Shoes Store</string>
+    <string name="email">Email</string>
+    <string name="email_hint">Enter Your Email Here</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Enter Your Password Here</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="welcome_title">Welcome to YoYo Shoe Store Inventory!</string>
+    <string name="welcome_description">Your one-stop shoe store inventory app</string>
+    <string name="next">Next</string>
+    <string name="welcome_instructions">In next screen, it shows a list of shoes in the inventory. To add shoe in the inventory, press the \'+\' button. </string>
+    <string name="letsgo">Let\'s Go!</string>
+    <string name="add_shoe">Add Shoe</string>
+    <string name="shoe_detail_title">Enter Your Shoe Detail Here</string>
+    <string name="shoe_name">Shoe Name</string>
+    <string name="company_name">Company</string>
+    <string name="shoe_size">Shoe Size</string>
+    <string name="description">Description</string>
+    <string name="incomplete_text">Please enter all fields!</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="logout">Logout</string>
+    <string name="next0">NEXT</string>
+    <string name="InstructionTxt">Instructions</string>
+    <string name="insTxt2">Press the green button to add a new shoes to the list</string>
+    <string name="don_t_forget_to_choose_your_n_best_shoes">Don\'t forget to choose your best shoes</string>
+</resources>
